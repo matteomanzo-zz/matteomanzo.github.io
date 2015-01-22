@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tales of a coder]]></title>
+  <link href="http://matteomanzo.github.io/atom.xml" rel="self"/>
+  <link href="http://matteomanzo.github.io/"/>
+  <updated>2015-01-22T00:08:23+00:00</updated>
+  <id>http://matteomanzo.github.io/</id>
+  <author>
+    <name><![CDATA[Matteo Manzo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
