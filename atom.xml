@@ -4,7 +4,7 @@
   <title><![CDATA[Tales of a coder]]></title>
   <link href="http://matteomanzo.github.io/atom.xml" rel="self"/>
   <link href="http://matteomanzo.github.io/"/>
-  <updated>2015-03-17T10:32:25+00:00</updated>
+  <updated>2015-03-22T17:39:01+00:00</updated>
   <id>http://matteomanzo.github.io/</id>
   <author>
     <name><![CDATA[Matteo Manzo]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Graduated!]]></title>
+    <link href="http://matteomanzo.github.io/blog/2015/03/22/graduated/"/>
+    <updated>2015-03-22T17:35:34+00:00</updated>
+    <id>http://matteomanzo.github.io/blog/2015/03/22/graduated</id>
+    <content type="html"><![CDATA[<p>What a journey! I just graduated from Makers Academy after a 2 weeks final project, which it was totally crazy!!
+At the beginning of the course I could have never imagined that with no experience before the course, I was able, with a team of other 4 makers (<a href="https://github.com/andygnewman">Andy</a>, <a href="https://github.com/marcinwal">Marcin</a>, <a href="https://github.com/jackrubio26">Jack</a> and <a href="https://github.com/hannahcarney">Hannah</a>) to build a fully working application, <a href="https://turnuptunein.herokuapp.com">TurnUp TuneIn</a> which lets you to organize your party playlist on Spotify and allow your friends to contribute to it!
+<a href="https://github.com/matteomanzo/playlister">Check it out</a> to read more..
+Makers was great, very hard to leave. In fact, I am still there everyday, working on my projects and getting as much support as I want in order to find the best companies to work with and the most useful resources to help me keep growing as I did during this 12 weeks.
+That&rsquo;s pretty much it actually, I realised that I can not type the feelings and sensations that I feel right now, it feels strange, I feel great, but there is something going on that I never felt before and I am enjoying it.
+I&rsquo;m off doing some work now and getting ready for the real world, after this incredibly powerful launching pad, I am building my path to become a great full-stack developer.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Makerthon]]></title>
